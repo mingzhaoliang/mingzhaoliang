@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio<!--[my portfolio](xxx) -->
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Angular**
 
 <!-- - 👨‍💻 All of my projects are available at [xxx](xxx) -->
 
