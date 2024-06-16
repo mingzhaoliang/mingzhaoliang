@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio<!--[my portfolio](xxx) -->
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Node.js**
 
 <!-- - 👨‍💻 All of my projects are available at [xxx](xxx) -->
 
-- 📫 How to reach me **timothy.l.general@gmail.com**
+- 📫 How to reach me **timothymc.leung@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
