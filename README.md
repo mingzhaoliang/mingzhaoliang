@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- - 👨‍💻 All of my projects are available at [xxx](xxx) -->
 
-- 📫 How to reach me **timothymc.leung@gmail.com**
+- 📫 How to reach me **timothymc.dev@gmail.com**
 
 
 <h3 align="center">Languages and Tools:</h3>
